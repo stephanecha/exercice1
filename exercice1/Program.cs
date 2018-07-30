@@ -10,6 +10,8 @@ namespace exercice1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ma premiere app!");
+            Console.ReadKey();
         }
     }
 }
